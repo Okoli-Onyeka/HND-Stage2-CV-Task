@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Stage Two CV Task</string>
+    <string name="title_activity_edit_screen">EditScreenActivity</string>
+    <string name="edit_cv_details">Edit Cv Details</string>
+    <string name="personal_profile">Personal Profile</string>
+    <string name="education">Education</string>
+    <string name="work_experience">Work Experience</string>
+    <string name="hobbies_and_interests">Hobbies and Interests</string>
+    <string name="referees">Referees</string>
+    <string name="cv_details">Cv Details</string>
+</resources>
