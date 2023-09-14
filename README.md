@@ -1,0 +1,5 @@
+A CV app with two screens. the home screen and the edit screen. The home screen consists of prefilled user details and the editable CV details. 
+
+CV details can be edited by pressing the edit button below or by clicking the CV texts. 
+
+After editing use the back button to navigate back to home screen
